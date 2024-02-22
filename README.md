@@ -1,16 +1,35 @@
 # flutter_challenges
 
-A new Flutter project.
+A special thanks to my moshi who inspired me to make this list of exercises to learn flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses [fvm (Flutter Version Management package)](https://fvm.app/documentation/getting-started/installation)
+First activate `fvm` with the command.
+```
+dart pub global activate fvm
+```
 
-A few resources to get you started if this is your first Flutter project:
+Then run the command.
+```
+fvm use
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Now you can install your flutter version.
+```
+fvm flutter clean && fvm flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run an specific challenge
+In the `main.dart` main function you can specify which challenge to run each challenge start with `App{ChallengeName}`.
+
+```dart
+void main() {
+  // TODO: Replace for the challenge to do.
+  runApp(const App{ChallengeName}());
+}
+```
+
+You gonna be workin under the specific `// TODO:` add your code below on what you think is the solution to each specific issue.
+
+each challenge will have an `readme` file with the information needed to work on each challenge.
