@@ -1,0 +1,142 @@
+[
+    {
+        "foodId": "food_1",
+        "name": "FoodItem 1",
+        "category": "carb",
+        "nutritionInfo": {
+            "foodId": "food_1",
+            "calories": 463.78,
+            "protein": 26.33,
+            "carbohydrates": 46.58,
+            "fats": 42.43,
+            "fiber": 6.05,
+            "sugar": 0.86
+        }
+    },
+    {
+        "foodId": "food_2",
+        "name": "FoodItem 2",
+        "category": "fat",
+        "nutritionInfo": {
+            "foodId": "food_2",
+            "calories": 105.1,
+            "protein": 48.15,
+            "carbohydrates": 19.99,
+            "fats": 32.95,
+            "fiber": 2.24,
+            "sugar": 43.02
+        }
+    },
+    {
+        "foodId": "food_3",
+        "name": "FoodItem 3",
+        "category": "fruit",
+        "nutritionInfo": {
+            "foodId": "food_3",
+            "calories": 415.87,
+            "protein": 46.04,
+            "carbohydrates": 2.33,
+            "fats": 43.14,
+            "fiber": 8.93,
+            "sugar": 17.75
+        }
+    },
+    {
+        "foodId": "food_4",
+        "name": "FoodItem 4",
+        "category": "vegetable",
+        "nutritionInfo": {
+            "foodId": "food_4",
+            "calories": 220.41,
+            "protein": 40.6,
+            "carbohydrates": 79.09,
+            "fats": 7.31,
+            "fiber": 3.25,
+            "sugar": 24.04
+        }
+    },
+    {
+        "foodId": "food_5",
+        "name": "FoodItem 5",
+        "category": "carb",
+        "nutritionInfo": {
+            "foodId": "food_5",
+            "calories": 213.05,
+            "protein": 11.55,
+            "carbohydrates": 12.68,
+            "fats": 6.94,
+            "fiber": 9.04,
+            "sugar": 37.21
+        }
+    },
+    {
+        "foodId": "food_6",
+        "name": "FoodItem 6",
+        "category": "protein",
+        "nutritionInfo": {
+            "foodId": "food_6",
+            "calories": 62.51,
+            "protein": 26.5,
+            "carbohydrates": 57.11,
+            "fats": 18.82,
+            "fiber": 7.23,
+            "sugar": 25.0
+        }
+    },
+    {
+        "foodId": "food_7",
+        "name": "FoodItem 7",
+        "category": "fruit",
+        "nutritionInfo": {
+            "foodId": "food_7",
+            "calories": 396.14,
+            "protein": 11.85,
+            "carbohydrates": 93.49,
+            "fats": 31.54,
+            "fiber": 1.03,
+            "sugar": 38.53
+        }
+    },
+    {
+        "foodId": "food_8",
+        "name": "FoodItem 8",
+        "category": "vegetable",
+        "nutritionInfo": {
+            "foodId": "food_8",
+            "calories": 497.79,
+            "protein": 42.02,
+            "carbohydrates": 53.81,
+            "fats": 12.14,
+            "fiber": 3.58,
+            "sugar": 18.18
+        }
+    },
+    {
+        "foodId": "food_9",
+        "name": "FoodItem 9",
+        "category": "protein",
+        "nutritionInfo": {
+            "foodId": "food_9",
+            "calories": 179.19,
+            "protein": 40.15,
+            "carbohydrates": 65.3,
+            "fats": 39.11,
+            "fiber": 5.44,
+            "sugar": 27.58
+        }
+    },
+    {
+        "foodId": "food_10",
+        "name": "FoodItem 10",
+        "category": "vegetable",
+        "nutritionInfo": {
+            "foodId": "food_10",
+            "calories": 349.93,
+            "protein": 8.52,
+            "carbohydrates": 13.3,
+            "fats": 2.54,
+            "fiber": 4.83,
+            "sugar": 23.99
+        }
+    }
+]
