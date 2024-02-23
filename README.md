@@ -1,6 +1,6 @@
 # flutter_challenges
 
-A special thanks to my moshi who inspired me to make this list of exercises to learn flutter
+A special thanks to my ❤️ moshi ❤️ who inspired me to make this list of exercises to learn flutter
 
 ## Getting Started
 
