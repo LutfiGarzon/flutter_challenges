@@ -6,6 +6,7 @@ class UserModel {
   int age;
   double height; // In meters
   double weight; // In kilograms
+  String? picture; // url
 
   UserModel({
     required this.userId,
@@ -15,5 +16,9 @@ class UserModel {
     required this.age,
     required this.height,
     required this.weight,
+    this.picture,
   });
 }
+
+// CRUD User
+// BMI Calculator

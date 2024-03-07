@@ -1,4 +1,4 @@
-class NutritionInfoModel {
+class NutritionInfo {
   String foodId;
   double calories; // kcal
   double protein; // grams
@@ -7,7 +7,7 @@ class NutritionInfoModel {
   double fiber; // grams
   double sugar; // grams
 
-  NutritionInfoModel({
+  NutritionInfo({
     required this.foodId,
     required this.calories,
     required this.protein,

@@ -1,12 +1,12 @@
 import 'package:flutter_challenges/challenges/challenge01/models/meal_model.dart';
 
-class DiaryEntryModel {
+class DiaryEntry {
   String entryId;
   String userId;
-  String date; // YYYY-MM-DD
-  List<MealModel> meals; // List of meals for the day
+  String date; // ISO 8601 date format
+  List<Meal> meals; // List of meals for the day
 
-  DiaryEntryModel({
+  DiaryEntry({
     required this.entryId,
     required this.userId,
     required this.date,

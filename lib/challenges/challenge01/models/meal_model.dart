@@ -1,16 +1,19 @@
-import 'package:flutter_challenges/challenges/challenge01/models/food_item_model.dart';
+import 'package:flutter_challenges/challenges/challenge01/models/food_model.dart';
+import 'package:flutter_challenges/challenges/challenge01/models/instruction_model.dart';
 import 'package:flutter_challenges/challenges/challenge01/utils/enums.dart';
 
-class MealModel {
+class Meal {
   String mealId;
   String name;
   MealType type;
-  List<FoodItemModel> foodItems;
+  List<Food> ingredients;
+  List<Instruction> recipe;
 
-  MealModel({
+  Meal({
     required this.mealId,
     required this.name,
     required this.type,
-    required this.foodItems,
+    required this.ingredients,
+    required this.recipe,
   });
 }
