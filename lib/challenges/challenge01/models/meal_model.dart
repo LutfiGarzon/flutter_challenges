@@ -17,3 +17,5 @@ class Meal {
     required this.recipe,
   });
 }
+
+// Obtain calories for a meal
