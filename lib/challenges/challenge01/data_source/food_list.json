@@ -2,7 +2,6 @@
     {
         "foodId": "food_1",
         "name": "FoodItem 1",
-        "category": "carb",
         "nutritionInfo": {
             "foodId": "food_1",
             "calories": 463.78,
@@ -16,7 +15,6 @@
     {
         "foodId": "food_2",
         "name": "FoodItem 2",
-        "category": "fat",
         "nutritionInfo": {
             "foodId": "food_2",
             "calories": 105.1,
@@ -30,7 +28,6 @@
     {
         "foodId": "food_3",
         "name": "FoodItem 3",
-        "category": "fruit",
         "nutritionInfo": {
             "foodId": "food_3",
             "calories": 415.87,
@@ -44,7 +41,6 @@
     {
         "foodId": "food_4",
         "name": "FoodItem 4",
-        "category": "vegetable",
         "nutritionInfo": {
             "foodId": "food_4",
             "calories": 220.41,
@@ -58,7 +54,6 @@
     {
         "foodId": "food_5",
         "name": "FoodItem 5",
-        "category": "carb",
         "nutritionInfo": {
             "foodId": "food_5",
             "calories": 213.05,
@@ -72,7 +67,6 @@
     {
         "foodId": "food_6",
         "name": "FoodItem 6",
-        "category": "protein",
         "nutritionInfo": {
             "foodId": "food_6",
             "calories": 62.51,
@@ -86,7 +80,6 @@
     {
         "foodId": "food_7",
         "name": "FoodItem 7",
-        "category": "fruit",
         "nutritionInfo": {
             "foodId": "food_7",
             "calories": 396.14,
@@ -100,7 +93,6 @@
     {
         "foodId": "food_8",
         "name": "FoodItem 8",
-        "category": "vegetable",
         "nutritionInfo": {
             "foodId": "food_8",
             "calories": 497.79,
@@ -114,7 +106,6 @@
     {
         "foodId": "food_9",
         "name": "FoodItem 9",
-        "category": "protein",
         "nutritionInfo": {
             "foodId": "food_9",
             "calories": 179.19,
@@ -128,7 +119,6 @@
     {
         "foodId": "food_10",
         "name": "FoodItem 10",
-        "category": "vegetable",
         "nutritionInfo": {
             "foodId": "food_10",
             "calories": 349.93,
